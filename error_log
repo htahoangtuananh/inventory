@@ -1,0 +1,8 @@
+[20-May-2018 13:14:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/misv3388/public_html/application/models/AdminModel.php on line 1149
+[20-May-2018 13:14:34 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/misv3388/public_html/application/models/AdminModel.php on line 1149
+[20-May-2018 13:49:05 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ',' in /home/misv3388/public_html/application/models/Model.php on line 146
+[21-May-2018 14:02:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Admin::addIcon() in /home/misv3388/public_html/application/controllers/Admin.php on line 1862
+[21-May-2018 14:04:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Admin::addIcon() in /home/misv3388/public_html/application/controllers/Admin.php on line 1862
+[21-May-2018 14:04:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Admin::addIcon() in /home/misv3388/public_html/application/controllers/Admin.php on line 1862
+[21-May-2018 14:10:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Admin::addIcon() in /home/misv3388/public_html/application/controllers/Admin.php on line 1862
+[23-May-2018 01:51:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''d' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/misv3388/public_html/application/views/home_new.php on line 195

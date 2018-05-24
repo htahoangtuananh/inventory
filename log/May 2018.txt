@@ -1,0 +1,9 @@
+﻿
+11:14:22pm 24-05-2018 - admin - add - [color_id] => 071;[name] => Đỏ;[color] => rgb(255, 0, 4); - to product_color
+
+11:14:33pm 24-05-2018 - admin - add - [color_id] => 072;[name] => Cam;[color] => rgb(255, 149, 0); - to product_color
+11:16:06pm 24-05-2018 - admin - add - [color_id] => 073;[name] => Vàng;[color] => rgb(239, 255, 0); - to product_color
+11:19:01pm 24-05-2018 - admin - add - [color_id] => 074;[name] => Xanh lá;[color] => rgb(0, 183, 4); - to product_color
+11:19:48pm 24-05-2018 - admin - add - [type_id] => DR;[name] => Váy; - to product_type
+11:27:44pm 24-05-2018 - admin - add - [gender_id] => 7;[name] => Bé trai; - to product_gender
+11:30:08pm 24-05-2018 - admin - add - [category_id] => BT;[name] => Boutique; - to product_category
